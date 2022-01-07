@@ -2,7 +2,7 @@
 I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a competent JavaScript Developer!
 
 ## GOALS
-- [ ] Find a new job
+- [ ] Find a first job as developer
 - [ ] Learn React
 - [ ] Learn MongoDB
 - [ ] Complete the [CodersCamp2021](https://www.coderscamp.pl/)
