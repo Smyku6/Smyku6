@@ -22,7 +22,8 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 [<img width="auto" height="120" src="https://user-images.githubusercontent.com/56206231/148212376-cebc2c4f-2887-40b8-9545-076fa44013fb.png">](https://cc2021-wbl.github.io/Project-I/)
 
 ### Project II (single page application - React):
-- [ ] In progress... (demo deadline 10.02.2022)
+*In progress...*
+- [ ] [GOOD-BOI-Application :dog2:](https://github.com/CC2021-WBL/GOOD-BOI-Application) (demo deadline 10.02.2022)
  <br />
 
 
