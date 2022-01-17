@@ -24,6 +24,9 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 ### Project II (single page application - React):
 *In progress...*
 - [ ] [GOOD-BOI-Application :dog2:](https://github.com/CC2021-WBL/GOOD-BOI-Application) (demo deadline 10.02.2022)
+
+![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)
+
  <br />
 
 
