@@ -3,37 +3,15 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 
 ## GOALS
 - [ ] Find a first job as developer
-- [ ] Learn React
-- [ ] Learn MongoDB
 - [ ] Complete the [CodersCamp2021](https://www.coderscamp.pl/)
 - [ ] Complete the [MegaK Javascript course](https://www.megak.pl/)
-<br />
-
-## PROJECTS
-
-🔥 I'm currently working on some projects with my faboulous team [*DevsOnTheWaves*](https://github.com/CC2021-WBL) at [#CodersCamp2021](https://www.coderscamp.pl/) under the eye of mentor.
-
-[<img width="auto" height="120" src="https://user-images.githubusercontent.com/75560322/148567228-d9885122-dccb-4e19-aa5f-6e2e9d7e9ca3.png">](https://github.com/CC2021-WBL)
-
-### Project I (VanillaJS, HTML, CSS):
-
-- [x] [Harry Potter Quiz Game](https://cc2021-wbl.github.io/Project-I/)  ([link to repository](https://github.com/CC2021-WBL/Project-I))
-
-[<img width="auto" height="120" src="https://user-images.githubusercontent.com/56206231/148212376-cebc2c4f-2887-40b8-9545-076fa44013fb.png">](https://cc2021-wbl.github.io/Project-I/)
-
-### Project II (single page application - React):
-*In progress...*
-- [ ] [GOOD-BOI-Application :dog2:](https://github.com/CC2021-WBL/GOOD-BOI-Application) (demo deadline 10.02.2022)
-
-![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)
-
- <br />
-
 
 ## SKILLS
 
  🌱 Currently learning:
  
+ <code><img width="30" height="30" src="https://th.bing.com/th/id/OIP.hGGBWVgH8Xocw91VdzJecgAAAA?pid=ImgDet&rs=1"></code>
+ <code><img width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSq4D-zkg4ow2Uc7KpPfAAfyRy1tUwBZBnIg&usqp=CAU"></code>
  <code><img width="30" height="30" src="https://images.viblo.asia/1d949589-afdd-4a1e-b77f-c53fdaf8af13.png"></code>  [React - Complete Guide Course](https://github.com/Smyku6/react-complete-guide-course) 
 
 🚴‍♂️ Skills
@@ -52,6 +30,20 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png"></code>
 <br/>
 <br/>
+
+## PROJECTS
+
+🔥 I'm currently working on some projects with my faboulous team [*DevsOnTheWaves*](https://github.com/CC2021-WBL) at [#CodersCamp2021](https://www.coderscamp.pl/) under the eye of mentor.
+
+[<img width="auto" height="120" src="https://user-images.githubusercontent.com/75560322/148567228-d9885122-dccb-4e19-aa5f-6e2e9d7e9ca3.png">](https://github.com/CC2021-WBL)
+
+|Project |Demo | Screen  | Repository|Technologies|
+--- | --- | ---|---|---|
+|Harry Potter Quiz Game|[Harry Potter Quiz LIVE (desktop version)](https://cc2021-wbl.github.io/Project-I/)|[<img width="auto" height="120" src="https://user-images.githubusercontent.com/56206231/148212376-cebc2c4f-2887-40b8-9545-076fa44013fb.png">](https://cc2021-wbl.github.io/Project-I/)|([link to repository](https://github.com/CC2021-WBL/Project-I))|VanillaJS, SASS, BEM, Parcel|
+|GOOD Boi Application|[GOOD-BOI-DEMO (mobile version)](https://github.com/CC2021-WBL/GOOD-BOI-Application)|![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)| ([link to repository](https://github.com/CC2021-WBL/GOOD-BOI-Application))|React, React Router v6,  Context API, styled-components,vercel|
+
+ <br />
+
 
 ## STATS
 
