@@ -14,7 +14,8 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
  <code><img width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSq4D-zkg4ow2Uc7KpPfAAfyRy1tUwBZBnIg&usqp=CAU"></code>
  <code><img width="30" height="30" src="https://images.viblo.asia/1d949589-afdd-4a1e-b77f-c53fdaf8af13.png"></code>  [React - Complete Guide Course](https://github.com/Smyku6/react-complete-guide-course) 
 
-🚴‍♂️ Skills
+🚴‍♂️ Skills!
+
 
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -39,7 +40,7 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 
 |Project |Demo | Screen  | Repository|Technologies|
 --- | --- | ---|---|---|
-|Harry Potter Quiz Game|[Harry Potter Quiz LIVE (desktop version)](https://cc2021-wbl.github.io/Project-I/)|[<img width="auto" height="120" src="https://user-images.githubusercontent.com/56206231/148212376-cebc2c4f-2887-40b8-9545-076fa44013fb.png">](https://cc2021-wbl.github.io/Project-I/)|([link to repository](https://github.com/CC2021-WBL/Project-I))|VanillaJS, SASS, BEM, Parcel|
+|Harry Potter Quiz Game|[Harry Potter Quiz LIVE (desktop version)](https://cc2021-wbl.github.io/Project-I/)|[<img width="auto" height="80" src="https://i.imgur.com/1nJmx3j.png">](https://cc2021-wbl.github.io/Project-I/)|([link to repository](https://github.com/CC2021-WBL/Project-I))|VanillaJS, SASS, BEM, Parcel|
 |GOOD Boi Application|[GOOD-BOI-DEMO (mobile version)](https://github.com/CC2021-WBL/GOOD-BOI-Application)|![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)| ([link to repository](https://github.com/CC2021-WBL/GOOD-BOI-Application))|React, React Router v6,  Context API, styled-components,vercel|
 
  <br />
