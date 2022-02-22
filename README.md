@@ -8,6 +8,7 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 
 ## SKILLS
 
+
  🌱 Currently learning:
  
  [<code><img width="30" height="30" title="TypeScript" src="https://th.bing.com/th/id/OIP.hGGBWVgH8Xocw91VdzJecgAAAA?pid=ImgDet&rs=1"></code>](https://www.typescriptlang.org/)
@@ -36,9 +37,6 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 [<code><img width="30" height="30" title="Parcel" src="https://i.imgur.com/nmBEs2D.png"></code>](https://parceljs.org/)
 [<code><img width="30" height="30" title="Webpack" src="https://i.imgur.com/aUq1qoQ.png"></code>](https://webpack.js.org/) 
 
-
-
-<br/>
 <br/>
 
 ## PROJECTS
@@ -47,10 +45,10 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 
 [<img width="auto" height="120" src="https://user-images.githubusercontent.com/75560322/148567228-d9885122-dccb-4e19-aa5f-6e2e9d7e9ca3.png">](https://github.com/CC2021-WBL)
 
-|Project |Demo | Screen  | Repository|Technologies|
---- | --- | ---|---|---|
-|Harry Potter Quiz Game|[Harry Potter Quiz LIVE (desktop version)](https://cc2021-wbl.github.io/Project-I/)|[<img width="auto" height="80" src="https://i.imgur.com/1nJmx3j.png">](https://cc2021-wbl.github.io/Project-I/)|([link to repository](https://github.com/CC2021-WBL/Project-I))|VanillaJS, SASS, BEM, Parcel|
-|GOOD Boi Application / In progress...|[GOOD-BOI-DEMO (mobile version)](https://good-boi-application-lime.vercel.app/)|![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)| ([link to repository](https://github.com/CC2021-WBL/GOOD-BOI-Application))|React, React Router v6,  Context API, styled-components, vercel|
+|Date|Project |Demo | Screen  | Repository|Technologies|
+|--- |--- | --- | ---|---|---|
+|12.2021 |Harry Potter Quiz Game|[Harry Potter Quiz LIVE (desktop version)](https://cc2021-wbl.github.io/Project-I/)|[<img width="auto" height="80" src="https://i.imgur.com/1nJmx3j.png">](https://cc2021-wbl.github.io/Project-I/)|([link to repository](https://github.com/CC2021-WBL/Project-I))|VanillaJS, SASS, BEM, Parcel|
+|01-02.2022|GOOD Boi Application / In progress...|[GOOD-BOI-DEMO (mobile version)](https://good-boi-application-lime.vercel.app/)|![image](https://user-images.githubusercontent.com/75560322/149686422-3585ece8-67ce-469c-9068-15424844e7df.png)| ([link to repository](https://github.com/CC2021-WBL/GOOD-BOI-Application))|React, React Router v6,  Context API, styled-components, vercel|
 
  <br />
 
