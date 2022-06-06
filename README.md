@@ -3,7 +3,7 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I would like to become a
 
 ## GOALS
 - [x] Find a first job as developer
-- [ ] Complete the [CodersCamp2021](https://www.coderscamp.pl/)
+- [x] Complete the [CodersCamp2021](https://www.coderscamp.pl/)
 - [ ] Complete the [MegaK Javascript course](https://www.megak.pl/)
 
 ## SKILLS
