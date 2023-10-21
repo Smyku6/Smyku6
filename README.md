@@ -1,5 +1,5 @@
 ## Hello👋
-I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I work as a full-stack developer at [Carrier](https://www.lenels2.com/en/us/security-products/elements/)!
+I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a full-stack developer at [Carrier](https://www.lenels2.com/en/us/security-products/elements/)!
 
 ## STACK
 [<code><img width="30" height="30" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/pl/docs/Web/JavaScript)
