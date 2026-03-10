@@ -1,5 +1,5 @@
 ## Hello👋
-I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a full-stack developer at [Acoustic]([Cloudflare R2](https://www.acoustic.com/product/acoustic-connect))!
+I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a full-stack developer at [Acoustic](https://www.acoustic.com/product/acoustic-connect)!
 
 ## STACK
 [<code><img width="30" height="30" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/pl/docs/Web/JavaScript)
