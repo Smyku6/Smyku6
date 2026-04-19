@@ -1,25 +1,6 @@
 ## Hello👋
 I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a full-stack developer at [Acoustic](https://www.acoustic.com/product/acoustic-connect)!
 
-## STACK
-[<code><img width="30" height="30" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/pl/docs/Web/JavaScript)
-[<code><img width="30" height="30" title="TypeScript" src="https://th.bing.com/th/id/OIP.hGGBWVgH8Xocw91VdzJecgAAAA?pid=ImgDet&rs=1"></code>](https://www.typescriptlang.org/)
-[<code><img width="30" height="30" title="React" src="https://images.viblo.asia/1d949589-afdd-4a1e-b77f-c53fdaf8af13.png"></code>](https://reactjs.org/) 
-[<code><img width="30" height="30" title="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.dev/)
-[<code><img width="30" height="30" title="expressJs" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>](https://expressjs.com/)
-[<code><img width="30" height="30" title="mongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSq4D-zkg4ow2Uc7KpPfAAfyRy1tUwBZBnIg&usqp=CAU"></code>](https://www.mongodb.com/)
-[<code><img width="30" height="30" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.npmjs.com/package/mysql2)
-
-[<code><img width="30" height="30" title="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>](https://www.w3schools.com/html/)
-[<code><img width="30" height="30" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"></code>](https://www.w3schools.com/css/default.asp)
-[<code><img width="30" height="30" title="SASS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz52pWbWjfVY4P8AOgGHHmrB8QLqA2BGy71Q&usqp=CAU"></code>](https://sass-lang.com/)
-[<code><img width="30" height="30" title="Styled components" src="https://i.imgur.com/G0O5ZyW.png"></code>](https://styled-components.com/)
-[<code><img width="30" height="30" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>](https://git-scm.com/)
-
-[<code><img width="30" height="30" src="https://spece.it/wp-content/uploads/2020/03/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>](https://code.visualstudio.com/)
-[<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png"></code>](https://www.jetbrains.com/webstorm/)
-[<code><img width="30" height="30"  title="Vercel" src="https://i.imgur.com/cZWJJbL.png"></code>](https://vercel.com/)
-[<code><img width="30" height="30" title="Parcel" src="https://i.imgur.com/nmBEs2D.png"></code>](https://parceljs.org/)
 [<code><img width="30" height="30" title="Webpack" src="https://i.imgur.com/aUq1qoQ.png"></code>](https://webpack.js.org/) 
 
 <br/>
