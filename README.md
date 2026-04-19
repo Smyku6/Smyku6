@@ -1,10 +1,6 @@
 ## Hello👋
 I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a full-stack developer at [Acoustic](https://www.acoustic.com/product/acoustic-connect)!
 
-[<code><img width="30" height="30" title="Webpack" src="https://i.imgur.com/aUq1qoQ.png"></code>](https://webpack.js.org/) 
-
-<br/>
-
 ## PROJECTS
 
 🔥 We had done few projects with my fabulous team [*DevsOnTheWaves*](https://github.com/CC2021-WBL) at [#CodersCamp2021](https://www.coderscamp.pl/) under the eye of mentor.
