@@ -16,9 +16,12 @@ I'm [Adam](https://www.linkedin.com/in/adam-smycz/) and I'm working now as a ful
 
  <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smyku6&theme=nightowl&show_icons=true&hide=java)](https://github.com/Smyku6/github-readme-stats)
-  
-[![Smyku6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smyku6&hide=stars&theme=nightowl&show_icons=true)](https://github.com/Smyku6/github-readme-stats)
+<a href="https://github.com/Smyku6">
+  <img height="180" src="./assets/stats.svg" />
+</a>
+<a href="https://github.com/Smyku6">
+  <img height="180" src="./assets/top-langs.svg" />
+</a>
     
 <!--
 **Smyku6/Smyku6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
