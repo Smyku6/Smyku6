@@ -28,13 +28,10 @@ After hours I build personal tools for myself - from bank API integrations to a 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-<a href="https://github.com/Smyku6">
-  <img height="180" src="./assets/top-langs.svg" />
-</a>
+<img width="300" src="./assets/top-langs.svg" alt="Top Languages" />
+<br />
+<img width="300" src="./assets/stats.svg" alt="GitHub Stats" />
 
-<a href="https://github.com/Smyku6">
-  <img height="180" src="./assets/stats.svg" />
-</a>
 
 ---
 
@@ -42,9 +39,9 @@ After hours I build personal tools for myself - from bank API integrations to a 
 
 Team projects built during my career transition from civil engineering to software development. [CodersCamp](https://coderscamp.pl/) was Poland's largest open-source web dev bootcamp (non-profit, by CodersCrew & LiveChat) - 6 modules, each ending with a team project in SCRUM. Built with my team [*DevsOnTheWaves*](https://github.com/CC2021-WBL).
 
-|Date|Project|Description|Screen|Repository|Technologies|
-|---|---|---|---|---|---|
-|12.2021|Harry Potter Quiz Game|Guess the character from Harry Potter’s World|[<img width="auto" height="120" src="https://i.imgur.com/1nJmx3j.png">](https://cc2021-wbl.github.io/Project-I/)|[repo](https://github.com/CC2021-WBL/Project-I)|VanillaJS, SASS, BEM, Parcel|
-|01-03.2022|GOOD Boi Application|App for Dog Obedience Championship competitors|[<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/9383b63f-6600-4c9d-ba37-0fd63efa8840">](good-boi.vercel.app)|[repo](https://github.com/CC2021-WBL/GOOD-BOI-Application)|React, React Router v6, Context API, styled-components|
-|04.2022|SPAralige|Booksy clone for SPA reservation|[<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/defdfdce-13e9-49bd-b94e-47c2b4f246cd">](https://sparalige.web.app/)|[repo](https://github.com/CC2021-WBL/SPAralige-by-Matylda-Borutka)|TypeScript, React, MUI, Formik, Firebase|
-|05.2022|S.Mallets|Small e-shop with mallets|[<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/19a780f9-7a3f-44e5-b99f-50bbe1ba7029">](https://smallets.netlify.app/)|[repo](https://github.com/CC2021-WBL/S.Mallets-frontend)|TypeScript, React, Redux, Tailwind, i18n|
+| Date       | Project                | Description                                    | Screen                                                                                                                                                                                       | Repository                                                               | Technologies                                           |
+|------------|------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|
+| 12.2021    | Harry Potter Quiz Game | Guess the character from Harry Potter’s World  | [<img width="auto" height="120" src="https://i.imgur.com/1nJmx3j.png">](https://cc2021-wbl.github.io/Project-I/)                                                                             | [repo](https://github.com/CC2021-WBL/Project-I)                          | VanillaJS, SASS, BEM, Parcel                           |
+| 01-03.2022 | GOOD Boi Application   | App for Dog Obedience Championship competitors | [<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/9383b63f-6600-4c9d-ba37-0fd63efa8840">](https://good-boi.vercel.app)                                   | [repo](https://github.com/CC2021-WBL/GOOD-BOI-Application)               | React, React Router v6, Context API, styled-components |
+| 04.2022    | SPAralige              | Booksy clone for SPA reservation               | [<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/defdfdce-13e9-49bd-b94e-47c2b4f246cd">](https://sparalige.web.app/)                                    | [repo](https://github.com/CC2021-WBL/SPAralige-by-Matylda-Borutka)       | TypeScript, React, MUI, Formik, Firebase               |
+| 05.2022    | S.Mallets              | Small e-shop with mallets                      | [<img width="auto" height="120" src="https://github.com/Smyku6/Smyku6/assets/75560322/19a780f9-7a3f-44e5-b99f-50bbe1ba7029">](https://smallets.netlify.app/)                                 | [repo](https://github.com/CC2021-WBL/S.Mallets-frontend)                 | TypeScript, React, Redux, Tailwind, i18n               |
