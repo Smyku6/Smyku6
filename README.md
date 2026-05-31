@@ -1,8 +1,10 @@
 ## Hello👋
 
-I'm [Adam](https://www.linkedin.com/in/adam-smycz/) — Full-Stack Developer at [Acoustic](https://www.acoustic.com/product/acoustic-connect), building a cloud-native customer engagement platform with TypeScript, React & NestJS.
+I'm Adam- Full-Stack Developer at [Acoustic](https://www.acoustic.com/product/acoustic-connect), building a cloud-native customer engagement platform with TypeScript, React & NestJS.
 
-Previously at Carrier (LenelS2) — cloud-based access control SaaS on Azure.
+Previously at Carrier (LenelS2) - developing cloud-based access control SaaS on Azure.
+
+After hours I build personal tools for myself - from bank API integrations to a training app connected to my Garmin watch.
 
 ### Tech Stack
 
@@ -27,17 +29,18 @@ Previously at Carrier (LenelS2) — cloud-based access control SaaS on Azure.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 <a href="https://github.com/Smyku6">
-  <img height="180" src="./assets/stats.svg" />
-</a>
-<a href="https://github.com/Smyku6">
   <img height="180" src="./assets/top-langs.svg" />
+</a>
+
+<a href="https://github.com/Smyku6">
+  <img height="180" src="./assets/stats.svg" />
 </a>
 
 ---
 
 ### Early Projects (CodersCamp 2021–2022)
 
-Team projects built during my career transition from civil engineering to software development. [CodersCamp](https://www.coderscamp.pl/) is Poland's largest open-source web dev bootcamp (non-profit, by CodersCrew & LiveChat) — 6 modules, each ending with a team project in SCRUM. Completed with distinction. Built with my team [*DevsOnTheWaves*](https://github.com/CC2021-WBL).
+Team projects built during my career transition from civil engineering to software development. [CodersCamp](https://coderscamp.pl/) was Poland's largest open-source web dev bootcamp (non-profit, by CodersCrew & LiveChat) - 6 modules, each ending with a team project in SCRUM. Built with my team [*DevsOnTheWaves*](https://github.com/CC2021-WBL).
 
 |Date|Project|Description|Screen|Repository|Technologies|
 |---|---|---|---|---|---|
