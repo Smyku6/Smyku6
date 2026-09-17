@@ -29,9 +29,6 @@ After hours I build personal tools for myself - from bank API integrations to a 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 <img width="300" src="./assets/top-langs.svg" alt="Top Languages" />
-<br />
-<img width="300" src="./assets/stats.svg" alt="GitHub Stats" />
-
 
 ---
 
